@@ -10,4 +10,4 @@ y2 = float(input("Please enter another number: "))
 total = ((x2 - x1) ** 2 (y2 - y1) ** 2) ** 0.5
 
 # Output
-print("The sum of the two numbers is " + str(total) + ".")
+print("The distance between the two points is " + str(total) + ".")
